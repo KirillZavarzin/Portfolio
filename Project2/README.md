@@ -1,6 +1,6 @@
 # Проект 2. Моделирование данных и работа с базой данных интернет-магазина «Накарабине».
 
- [Файл спецификации](https://github.com/KirillZavarzin/Portfolio/blob/87e8eb2cce1b17a31a348155f0bba9bf43ccdf07/Project1/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BA%20%D0%9F%D0%9E%20Chatty%202.0.pdf](https://github.com/KirillZavarzin/Portfolio/blob/main/Project2/Спецификация%20требований%20к%20ПО%20Накарабине.pdf)  
+[Файл спецификации](https://github.com/KirillZavarzin/Portfolio/blob/87e8eb2cce1b17a31a348155f0bba9bf43ccdf07/Project1/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BA%20%D0%9F%D0%9E%20Chatty%202.0.pdf)    
 ## Описание проекта 
 Составление логической модели в нотации Crow's Foot, приведение к 3-ей нормальной форме и написание словаря данных на основании спецификации требований.
 ## Навыки и инструменты 
